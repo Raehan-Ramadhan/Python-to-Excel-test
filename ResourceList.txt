@@ -35,7 +35,7 @@ Hefei ~ 0.3 uranium, 0.5 wood, 0.1 stone
 Wuhan ~ 0.1 oil, 0.4 wood, 0.2 stone
 Nanchang ~ 0.3 tungsten, 0.8 wood, 0.2 stone
 Changsha ~ 1.1 wood, 0.1 stone
-Seoul ~ 1 wood, 0.5 stone
+Seoul ~ 1.0 wood, 0.5 stone
 Pyongyang ~ 0.5 iron, 0.4 wood, 0.1 stone
 Changchun ~ 0.3 aluminum, 0.1 oil, 0.7 wood
 Harbin ~ 0.3 aluminum, 0.3 wood
@@ -63,6 +63,6 @@ Taipei ~ 0.5 oil, 0.8 wood, 0.1 stone
 Liaoning ~ 0.1 oil, 0.7 iron, 0.1 gold, 0.3 wood, 0.1 stone
 Changchun ~ 0.3 aluminum, 0.1 oil, 0.7 wood
 Harbin ~ 0.3 aluminum, 0.3 wood
-Exurbia City: 0.5 iron, 0.4 wood, 0.1 stone
+Exurbia City ~ 0.5 iron, 0.4 wood, 0.1 stone
 Hazy Cloud  ~ 0.3 oil, 1.5 wood, 0.3 stone
 Milabo Port ~ 0.1 oil, 0.4 copper, 1.2 wood, 0.4 stone
