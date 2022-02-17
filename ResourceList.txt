@@ -1,0 +1,37 @@
+Urumqi ~ 0.2 oil, 0.8 stone
+Lanzhou ~ 0.1 oil, 0.3 stone
+Hohhot ~ 0.4 iron, 0.3 stone
+Xining ~ 0.1 oil, 0.7 stone
+Yinchuan ~ 0.2 oil, 0.1 wood, 0.4 stone
+Xi'An ~ 0.1 oil, 0.3 wood, 0.3 stone
+Lhasa ~ 0.2 oil, 0.3 wood, 0.9 stone
+Chengdu ~ 0.3 oil, 0.7 copper, 1.1 wood, 0.1 stone
+Chongqing ~ 0.3 oil, 0.7 copper, 1.1 wood, 0.1 stone
+Kunming ~ 0.1 oil, 0.7 copper, 0.7 wood, 0.2 stone
+Guiyang ~ 0.2 oil, 1.0 copper, 0.8 wood, 0.1 stone
+Nanning ~ 0.3 tungsten, 1.0 wood, 0.3 stone
+Olgii ~ 0.7 copper, 0.3 tungsten, 0.1 wood, 0.3 stone
+Ulaangom ~ 0.7 copper, 0.3 tungsten, 0.1 stone
+Dund-Us ~ 0.7 copper, 0.3 tungsten, 0.2 wood
+Uliastay ~ 
+Moron ~ 0.7 aluminum, 0.3 gold, 0.1 wood, 0.2 stone
+Tsetserleg ~ 0.7 aluminum, 0.3 gold, 0.2 wood, 0.2 stone
+Bayankhongor ~ 0.5 gold
+Arvayheer ~ 0.1 wood, 0.2 stone
+Bulgan ~ 0.1 stone
+Erdenet ~ 0.7 aluminum, 0.3 gold, 0.2 wood
+Dalandzadgad ~ 0.5 oil, 0.5 copper
+Suchboatar ~ 0.7 iron, 0.3 gold, 0.1 wood, 0.2 stone
+Darhan ~ 0.7 iron, 0.3 gold, 0.2 wood, 0.2 stone
+Dzuunharaa ~ 0.3 gold
+Ulaanbaatar ~ 0.5 gold, 0.1 wood, 0.2 stone
+Buyant-Uhaa ~ 0.5 oil, 0.5 copper, 0.1 stone
+Ondorhaan ~ 0.2 wood
+Baruun Urt ~ 
+Choybalsan ~ 0.1 wood, 0.2 stone
+Taiyuan ~ 2.0 aluminum, 0.1 oil, 0.7 iron, 0.1 wood, 0.1 stone
+Zhengzhou ~ 0.3 wood, 0.4 stone
+Hefei ~ 0.3 uranium, 0.5 wood, 0.1 stone
+Wuhan ~ 0.1 oil, 0.4 wood, 0.2 stone
+Nanchang ~ 0.3 tungsten, 0.8 wood, 0.2 stone
+Changsha ~ 1.1 wood, 0.1 stone
