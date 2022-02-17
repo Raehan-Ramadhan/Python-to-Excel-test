@@ -1,0 +1,39 @@
+,Resources,Resources,Resources,Resources,Resources,Resources,Resources,Resources,Resources,Mines,Mines,Mines,Mines,Mines,Mines,Mines,Mines,Mines
+,Iron,Oil,Stone,Aluminum,Gold,Tungsten,Uranium,Copper,Wood,Iron,Oil,Stone,Aluminum,Gold,Tungsten,Uranium,Copper,Wood
+Urumqi,,0.2,0.8,,,,,,, ,oil mine,quarry, , , , , , 
+Lanzhou,,0.1,0.3,,,,,,, , ,quarry, , , , , , 
+Hohhot,0.4,,0.3,,,,,,,iron mine, ,quarry, , , , , , 
+Xining,,0.1,0.7,,,,,,, , ,quarry, , , , , , 
+Yinchuan,,0.2,0.4,,,,,,0.1, ,oil mine,quarry, , , , , , 
+Xi'An,,0.1,0.3,,,,,,0.3, , ,quarry, , , , , ,logging
+Lhasa,,0.2,0.9,,,,,,0.3, ,oil mine,quarry, , , , , ,logging
+Chengdu,,0.3,0.1,,,,,0.7,1.1, ,oil mine, , , , , ,copper mine,logging
+Chongqing,,0.3,0.1,,,,,0.7,1.1, ,oil mine, , , , , ,copper mine,logging
+Kunming,,0.1,0.2,,,,,0.7,0.7, , ,quarry, , , , ,copper mine,logging
+Guiyang,,0.2,0.1,,,,,1.0,0.8, ,oil mine, , , , , ,copper mine,logging
+Nanning,,,0.3,,,0.3,,,1.0, , ,quarry, , ,tungsten mine, , ,logging
+Olgii,,,0.3,,,0.3,,0.7,0.1, , ,quarry, , ,tungsten mine, ,copper mine, 
+Ulaangom,,,0.1,,,0.3,,0.7,, , , , , ,tungsten mine, ,copper mine, 
+Dund-Us,,,,,,0.3,,0.7,0.2, , , , , ,tungsten mine, ,copper mine,logging
+Uliastay,,,,,,,,,, , , , , , , , , 
+Moron,,,0.2,0.7,0.3,,,,0.1, , ,quarry,aluminum mine,gold mine, , , , 
+Tsetserleg,,,0.2,0.7,0.3,,,,0.2, , ,quarry,aluminum mine,gold mine, , , ,logging
+Bayankhongor,,,,,0.5,,,,, , , , ,gold mine, , , , 
+Arvayheer,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Bulgan,,,0.1,,,,,,, , , , , , , , , 
+Erdenet,,,,0.7,0.3,,,,0.2, , , ,aluminum mine,gold mine, , , ,logging
+Dalandzadgad,,0.5,,,,,,0.5,, ,oil mine, , , , , ,copper mine, 
+Suchboatar,0.7,,0.2,,0.3,,,,0.1,iron mine, ,quarry, ,gold mine, , , , 
+Darhan,0.7,,0.2,,0.3,,,,0.2,iron mine, ,quarry, ,gold mine, , , ,logging
+Dzuunharaa,,,,,0.3,,,,, , , , ,gold mine, , , , 
+Ulaanbaatar,,,0.2,,0.5,,,,0.1, , ,quarry, ,gold mine, , , , 
+Buyant-Uhaa,,0.5,0.1,,,,,0.5,, ,oil mine, , , , , ,copper mine, 
+Ondorhaan,,,,,,,,,0.2, , , , , , , , ,logging
+Baruun Urt,,,,,,,,,, , , , , , , , , 
+Choybalsan,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Taiyuan,0.7,0.1,0.1,2.0,,,,,0.1,iron mine, , ,aluminum mine, , , , , 
+Zhengzhou,,,0.4,,,,,,0.3, , ,quarry, , , , , ,logging
+Hefei,,,0.1,,,,0.3,,0.5, , , , , , ,uranium mine, ,logging
+Wuhan,,0.1,0.2,,,,,,0.4, , ,quarry, , , , , ,logging
+Nanchang,,,0.2,,,0.3,,,0.8, , ,quarry, , ,tungsten mine, , ,logging
+Changsha,,,0.1,,,,,,1.1, , , , , , , , ,logging
