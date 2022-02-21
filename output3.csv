@@ -67,3 +67,49 @@ Harbin,,,,0.3,,,,,0.3, , , ,aluminum mine, , , , ,logging
 Exurbia City,0.5,,0.1,,,,,,0.4,iron mine, , , , , , , ,logging
 Hazy Cloud,,0.3,0.3,,,,,,1.5, ,oil mine,quarry, , , , , ,logging
 Milabo Port,,0.1,0.4,,,,,0.4,1.2, , ,quarry, , , , ,copper mine,logging
+Leh,,,,,,,,,, , , , , , , , , 
+Jammu,,,0.1,,,,,,0.3, , , , , , , , ,logging
+Shimla,,,0.2,,,,,,0.5, , ,quarry, , , , , ,logging
+Chandigarh,,,0.2,,,,,,0.5, , ,quarry, , , , , ,logging
+Dehradun,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Lucknow,,,,,,,,,0.9, , , , , , , , ,logging
+Jaipur,,,0.1,,,,,0.3,0.2, , , , , , , ,copper mine,logging
+Patna,,,0.2,,,,,,0.6, , ,quarry, , , , , ,logging
+Gandhinagar,,,0.1,,,,,,0.2, , , , , , , , ,logging
+Bhopal,,,0.1,,,,,,0.3, , , , , , , , ,logging
+Raipur,0.3,,0.1,0.3,,,,,0.7,iron mine, , ,aluminum mine, , , , ,logging
+Ranchi,1.0,,0.4,0.5,,,,,0.2,iron mine, ,quarry,aluminum mine, , , , ,logging
+Bhubaneswar,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Kolkata,,,0.2,,,,,,0.8, , ,quarry, , , , , ,logging
+Gangtok,,,0.5,,,,,,, , ,quarry, , , , , , 
+Guwahati,,,0.1,,,,,,0.5, , , , , , , , ,logging
+Shillong,,,0.1,,,,,,0.6, , , , , , , , ,logging
+Itanagar,,0.3,0.1,,,,,,0.2, ,oil mine, , , , , , ,logging
+Kohima,,0.3,0.1,,,,,,0.3, ,oil mine, , , , , , ,logging
+Imphal,,0.3,0.2,,,,,,0.1, ,oil mine,quarry, , , , , , 
+Agartala,,2.0,,,,,,,1.0, ,oil mine, , , , , , ,logging
+Aizawl,,,,,,,,,1.4, , , , , , , , ,logging
+Mumbai,,,0.3,,,,,,0.4, , ,quarry, , , , , ,logging
+Hyderabad,,,0.1,,,,,,0.1, , , , , , , , , 
+Panaji,,,0.4,,,,,,0.1, , ,quarry, , , , , , 
+Bengaluru,1.0,,0.1,,0.3,,,,0.2,iron mine, , , ,gold mine, , , ,logging
+Vijayawada,,0.5,0.3,,,,,,0.6, ,oil mine,quarry, , , , , ,logging
+Thiruvananthapuram,,0.3,0.5,,,,,,0.5, ,oil mine,quarry, , , , , ,logging
+Chennai,,,0.6,,,,,,0.3, , ,quarry, , , , , ,logging
+Port Blair,,,0.4,,,,,,0.5, , ,quarry, , , , , ,logging
+Bhaluwang,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Salyan,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Kathmandu,,,0.2,,,,,,0.1, , ,quarry, , , , , , 
+Thimphu,,,0.1,,,,,,0.4, , , , , , , , ,logging
+Paro,,,0.1,,,,,,0.4, , , , , , , , ,logging
+Wangdue Prodrang,,,0.1,,,,,,0.4, , , , , , , , ,logging
+Punakha,,,0.1,,,,,,0.4, , , , , , , , ,logging
+Rangpur,,,0.1,,,,,,0.3, , , , , , , , ,logging
+Rajshahi,,0.3,0.1,,,,,,0.5, ,oil mine, , , , , , ,logging
+Mymensingh,,,0.1,,,,,,0.3, , , , , , , , ,logging
+Sylhet,,2.0,0.2,,,,,,0.4, ,oil mine,quarry, , , , , ,logging
+Khulna,,,,,,,,,0.2, , , , , , , , ,logging
+Barisal,,,0.1,,,,,,0.3, , , , , , , , ,logging
+Chittagong,,1.0,0.2,,,,,,0.7, ,oil mine,quarry, , , , , ,logging
+Dhaka,,,,,,,,,0.4, , , , , , , , ,logging
+New Dehli,,,0.2,,,,,0.3,0.5, , ,quarry, , , , ,copper mine,logging

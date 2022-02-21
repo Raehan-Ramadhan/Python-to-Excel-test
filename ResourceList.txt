@@ -66,3 +66,49 @@ Harbin ~ 0.3 aluminum, 0.3 wood
 Exurbia City ~ 0.5 iron, 0.4 wood, 0.1 stone
 Hazy Cloud  ~ 0.3 oil, 1.5 wood, 0.3 stone
 Milabo Port ~ 0.1 oil, 0.4 copper, 1.2 wood, 0.4 stone
+Leh ~
+Jammu ~ 0.3 wood, 0.1 stone
+Shimla ~ 0.5 wood, 0.2 stone
+Chandigarh ~ 0.5 wood, 0.2 stone
+Dehradun ~ 0.1 wood, 0.2 stone
+Lucknow ~ 0.9 wood
+Jaipur ~ 0.3 copper, 0.2 wood, 0.1 stone
+Patna ~ 0.6 wood, 0.2 stone
+Gandhinagar ~ 0.2 wood, 0.1 stone
+Bhopal ~ 0.3 wood, 0.1 stone
+Raipur ~ 0.3 aluminum, 0.3 diamond, 0.3 iron, 0.7 wood, 0.1 stone
+Ranchi ~ 0.5 aluminum, 1.0 iron, 0.2 wood, 0.4 stone
+Bhubaneswar ~ 0.1 wood, 0.2 stone
+Kolkata ~ 0.8 wood, 0.2 stone
+Gangtok ~ 0.5 stone
+Guwahati ~ 0.5 wood, 0.1 stone
+Shillong ~ 0.6 wood, 0.1 stone
+Itanagar ~ 0.3 oil, 0.2 wood, 0.1 stone
+Kohima ~ 0.3 oil, 0.3 wood, 0.1 stone
+Imphal ~ 0.3 oil, 0.1 wood, 0.2 stone
+Agartala ~ 2.0 oil, 1.0 wood
+Aizawl ~ 1.4 wood
+Mumbai ~ 0.4 wood, 0.3 stone
+Hyderabad ~ 0.1 wood, 0.1 stone
+Panaji ~ 0.1 wood, 0.4 stone
+Bengaluru ~ 1.0 iron, 0.3 gold, 0.2 wood, 0.1 stone
+Vijayawada ~ 0.5 oil, 0.6 wood, 0.3 stone
+Thiruvananthapuram ~ 0.3 oil, 0.5 wood, 0.5 stone
+Chennai ~ 0.3 wood, 0.6 stone
+Port Blair ~ 0.5 wood, 0.4 stone
+Bhaluwang ~ 0.1 wood, 0.2 stone
+Salyan ~ 0.1 wood, 0.2 stone
+Kathmandu ~ 0.1 wood, 0.2 stone
+Thimphu ~ 0.4 wood, 0.1 stone
+Paro ~ 0.4 wood, 0.1 stone
+Wangdue Prodrang ~ 0.4 wood, 0.1 stone
+Punakha ~ 0.4 wood, 0.1 stone
+Rangpur ~ 0.3 wood, 0.1 stone
+Rajshahi ~ 0.3 oil, 0.5 wood, 0.1 stone
+Mymensingh ~ 0.3 wood, 0.1 stone
+Sylhet ~ 2.0 oil, 0.4 wood, 0.2 stone
+Khulna ~ 0.2 wood
+Barisal ~ 0.3 wood, 0.1 stone
+Chittagong ~ 1.0 oil, 0.7 wood, 0.2 stone
+Dhaka ~ 0.4 wood
+New Dehli ~ 0.3 copper, 0.5 wood, 0.2 stone
